@@ -313,6 +313,10 @@ label {
 
 }
 
+.sec_2_vid{
+    width: 83%;
+}
+
 
 @media only screen and (max-width :1280px) {
     .nav {
